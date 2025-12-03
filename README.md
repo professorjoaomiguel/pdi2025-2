@@ -1,6 +1,3 @@
-Based on the repository files and their Python code for digital image processing exercises, here's an enhanced README description:
-
-````markdown name=README.md
 ## Processamento de Imagem - PDI 2025-2
 ### Professor João Miguel
 
@@ -57,8 +54,6 @@ Os scripts foram desenvolvidos para rodar em ambientes Python compatíveis com a
 
 - Livro: *Raspberry Pi Image Processing Programming*
 - Base de imagens: https://sipi.usc.edu/database/database.php?volume=misc
-
----
-
+  
 Sinta-se livre para explorar os exemplos, adaptar os scripts e contribuir com melhorias!
 ````
