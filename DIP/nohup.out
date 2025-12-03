@@ -1,0 +1,13 @@
+GUVCVIEW: couldn't open /home/pi/.config/guvcview2/video0 for read: No such file or directory
+V4L2_CORE: ERROR opening V4L interface: No such file or directory
+GUVCVIEW (1): Guvcview error
+	 no video device found
+
+(guvcview:6993): Gtk-WARNING **: 21:09:56.427: Theme parsing error: <data>:1:17: not a number
+
+(guvcview:6993): Gtk-WARNING **: 21:09:56.427: Theme parsing error: <data>:1:31: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+
+(guvcview:6993): Gtk-WARNING **: 21:09:56.427: Theme parsing error: <data>:1:17: not a number
+
+(guvcview:6993): Gtk-WARNING **: 21:09:56.427: Theme parsing error: <data>:1:32: Using Pango syntax for the font: style property is deprecated; please use CSS syntax
+GUVCVIEW: version 2.0.6
